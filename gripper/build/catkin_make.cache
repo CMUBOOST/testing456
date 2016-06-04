@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/cmuboost/BOOST1/src/gripper/devel -DCMAKE_INSTALL_PREFIX=/home/cmuboost/BOOST1/src/gripper/install -G Unix Makefiles

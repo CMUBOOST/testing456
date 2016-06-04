@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cmuboost/BOOST1/src/gripper/install/setup.sh
